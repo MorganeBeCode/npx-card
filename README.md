@@ -1,18 +1,16 @@
 # npx card Morgane
 
 - Author: Morgane Jansen
-- Version: 1.0.0
+- Version: 1.0.1
 - [Page NPM](https://www.npmjs.com/package/morgane)
 
 ### Description
 
 My own npx card.
 
-### Installation
+### Usage
 
-> \$ npm install morgane
-
-### How to use
+Via npx:
 
 > \$ npx morgane
 
