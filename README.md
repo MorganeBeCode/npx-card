@@ -14,7 +14,7 @@ Via npx:
 
 > \$ npx morgane
 
-### Dependencies
+### Tools
 
 - [NPM chalk](https://www.npmjs.com/package/chalk)
 - [NPM boxen](https://www.npmjs.com/package/boxen)
